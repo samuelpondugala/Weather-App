@@ -14,10 +14,10 @@ This is a simple javascript project made with the help of HTML, CSS, and OpenWea
 
 
 # check out live 
-Web Url: https://avinash201199.github.io/weather-app/
+Web Url: 
 
 You can contribute to this project by adding some new features or anything in your mind to contribute <br>
-[Check for getting started](https://github.com/avinash201199/weather-app/blob/main/CONTRIBUTING.md)
+[Check for getting started]()
 
 <br> 
 For any query dm on  [Linkedin](https://www.linkedin.com/in/samuelpondugala)
